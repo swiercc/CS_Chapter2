@@ -1,0 +1,4 @@
+C:\Users\Eahscs\Documents\GitHub\CS_Chapter2\CS_Chapter2\HoursAndMinutes\bin\Release\HoursAndMinutes.exe
+C:\Users\Eahscs\Documents\GitHub\CS_Chapter2\CS_Chapter2\HoursAndMinutes\bin\Release\HoursAndMinutes.pdb
+C:\Users\Eahscs\Documents\GitHub\CS_Chapter2\CS_Chapter2\HoursAndMinutes\obj\x86\Release\HoursAndMinutes.exe
+C:\Users\Eahscs\Documents\GitHub\CS_Chapter2\CS_Chapter2\HoursAndMinutes\obj\x86\Release\HoursAndMinutes.pdb

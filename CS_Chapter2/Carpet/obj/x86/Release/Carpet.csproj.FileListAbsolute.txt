@@ -1,0 +1,4 @@
+C:\Users\Eahscs\Documents\GitHub\CS_Chapter2\CS_Chapter2\Carpet\bin\Release\Carpet.exe
+C:\Users\Eahscs\Documents\GitHub\CS_Chapter2\CS_Chapter2\Carpet\bin\Release\Carpet.pdb
+C:\Users\Eahscs\Documents\GitHub\CS_Chapter2\CS_Chapter2\Carpet\obj\x86\Release\Carpet.exe
+C:\Users\Eahscs\Documents\GitHub\CS_Chapter2\CS_Chapter2\Carpet\obj\x86\Release\Carpet.pdb

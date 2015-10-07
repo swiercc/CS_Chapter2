@@ -1,0 +1,4 @@
+C:\Users\Eahscs\Documents\GitHub\CS_Chapter2\CS_Chapter2\Room\bin\Release\Room.exe
+C:\Users\Eahscs\Documents\GitHub\CS_Chapter2\CS_Chapter2\Room\bin\Release\Room.pdb
+C:\Users\Eahscs\Documents\GitHub\CS_Chapter2\CS_Chapter2\Room\obj\x86\Release\Room.exe
+C:\Users\Eahscs\Documents\GitHub\CS_Chapter2\CS_Chapter2\Room\obj\x86\Release\Room.pdb
