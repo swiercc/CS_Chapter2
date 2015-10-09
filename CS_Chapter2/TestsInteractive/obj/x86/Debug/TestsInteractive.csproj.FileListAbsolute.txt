@@ -1,0 +1,4 @@
+C:\Users\Eahscs\Documents\GitHub\CS_Chapter2\CS_Chapter2\TestsInteractive\bin\Debug\TestsInteractive.exe
+C:\Users\Eahscs\Documents\GitHub\CS_Chapter2\CS_Chapter2\TestsInteractive\bin\Debug\TestsInteractive.pdb
+C:\Users\Eahscs\Documents\GitHub\CS_Chapter2\CS_Chapter2\TestsInteractive\obj\x86\Debug\TestsInteractive.exe
+C:\Users\Eahscs\Documents\GitHub\CS_Chapter2\CS_Chapter2\TestsInteractive\obj\x86\Debug\TestsInteractive.pdb

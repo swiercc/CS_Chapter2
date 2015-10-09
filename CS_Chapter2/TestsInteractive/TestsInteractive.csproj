@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>68217c81-15ef-4122-bcf1-4a18e8b630a5</ProjectGuid>
+    <ProjectGuid>{2FC208E9-6FCA-411F-8586-B4FBD78657BB}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>TestsInteractive</RootNamespace>

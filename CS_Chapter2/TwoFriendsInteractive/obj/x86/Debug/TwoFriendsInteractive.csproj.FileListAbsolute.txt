@@ -1,0 +1,4 @@
+C:\Users\Eahscs\Documents\GitHub\CS_Chapter2\CS_Chapter2\TwoFriendsInteractive\bin\Debug\TwoFriendsInteractive.exe
+C:\Users\Eahscs\Documents\GitHub\CS_Chapter2\CS_Chapter2\TwoFriendsInteractive\bin\Debug\TwoFriendsInteractive.pdb
+C:\Users\Eahscs\Documents\GitHub\CS_Chapter2\CS_Chapter2\TwoFriendsInteractive\obj\x86\Debug\TwoFriendsInteractive.exe
+C:\Users\Eahscs\Documents\GitHub\CS_Chapter2\CS_Chapter2\TwoFriendsInteractive\obj\x86\Debug\TwoFriendsInteractive.pdb

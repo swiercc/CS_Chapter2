@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>ea74cfc6-90fa-4791-8035-10941d4538ca</ProjectGuid>
+    <ProjectGuid>{8FF064AE-E41D-40E4-837A-E383308D5983}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>TwoFriends</RootNamespace>

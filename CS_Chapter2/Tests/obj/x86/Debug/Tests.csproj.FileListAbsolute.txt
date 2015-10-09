@@ -1,0 +1,4 @@
+C:\Users\Eahscs\Documents\GitHub\CS_Chapter2\CS_Chapter2\Tests\bin\Debug\Tests.exe
+C:\Users\Eahscs\Documents\GitHub\CS_Chapter2\CS_Chapter2\Tests\bin\Debug\Tests.pdb
+C:\Users\Eahscs\Documents\GitHub\CS_Chapter2\CS_Chapter2\Tests\obj\x86\Debug\Tests.exe
+C:\Users\Eahscs\Documents\GitHub\CS_Chapter2\CS_Chapter2\Tests\obj\x86\Debug\Tests.pdb
